@@ -9,7 +9,11 @@
 
 <p align="center"><strong>Crafted by Slayer</strong></p>
 
+
 A powerful security tool for Android security researchers and penetration testers that captures and analyzes logcat output to identify sensitive data leaks in Android applications.
+
+The big idea is run this test or use applications normally and it'll analysis y the logs side by side...
+
 
 ## 🎯 Features
 
