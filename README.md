@@ -12,7 +12,7 @@
 
 A powerful security tool for Android security researchers and penetration testers that captures and analyzes logcat output to identify sensitive data leaks in Android applications.
 
-The big idea is run your assessment normally. Slayer Log Security Scanner monitors logcat in real-time alongside your session — capturing JWT tokens, PII, payment data, and high-entropy secrets as they leak, not after the fact....
+The big idea is run your assessment normally. Slayer Log Security Scanner monitors logcat in real-time alongside your session - capturing JWT tokens, PII, payment data, and high-entropy secrets as they leak, not after the fact....
 
 
 ## 🎯 Features
